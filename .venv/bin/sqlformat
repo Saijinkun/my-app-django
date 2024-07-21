@@ -1,4 +1,4 @@
-#!/home/saintr/project/be/my-app-django/.venv/bin/python3
+#!/home/saintr/project/be/my-app-django/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
